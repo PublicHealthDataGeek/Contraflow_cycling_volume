@@ -1,0 +1,109 @@
+---
+title: "Qualitative assessment of roads: Part 2 - Two-way streets that were converted to one-way with contraflow cycling"
+author: "C Tait"
+date: "2023-03-13"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+This page provides data on the spatial location and before/after street images of certain one-way road segments where contraflow cycling was implemented to help the qualitative assessment of these roads. Each road is identified as a blue pin on the maps. The maps also show national, regional and local cycle routes via the OpenCycleMap layer of OpenStreetMap. These are labelled as LCN (London Cycle Network) or C27, for example which means Cycleway 27 (REFS). The viewer can zoom in and out and take a tour of the infrastructure at various points in time using the Google Street View Images. Whilst this seems to work most of the time, there are times when it seems to hit bugs and may produce images from incorrect time points (e.g. showing bidirectional motor vehicles when it is meant to be a one-way street). If this happens, please refresh the page.      
+
+## Successful contraflow implementations  
+### 1. Tanner Street: contraflow start month March 2018 
+#### Location in relation to cycle routes
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.08388876914978029%2C51.49885523457889%2C-0.07680773735046388%2C51.501837321784826&amp;layer=cyclemap&amp;marker=51.50034630257278%2C-0.08034825325012207" style="border: 1px solid black" data-external="1"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=51.50035&amp;mlon=-0.08035#map=18/51.50035/-0.08035&amp;layers=C">View Larger Map</a></small>
+
+#### Entrance  
+
+##### Pre-implementation (September 2017t) 
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678710662532!6m8!1m7!1sKFqWkpGQ2ChjeUzVTUjzzA!2m2!1d51.5002026932336!2d-0.0785718062590715!3f277.663683963669!4f2.7690690831667553!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+##### Post-implementation (May 2019)
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678711712052!6m8!1m7!1sZfZh7tzWr0_i3KoTX2FHpQ!2m2!1d51.5001806515253!2d-0.07855642399578204!3f277.663683963669!4f2.7690690831667553!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+
+#### Exit 
+##### Pre-implementation (February 2018)  
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678711829928!6m8!1m7!1sjI5UNoeXmFFV1dNibrnv_A!2m2!1d51.50045425685693!2d-0.08127094660903154!3f281.9405511889381!4f0.3528826884573135!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+##### Post-implementation (May 2019)
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678711859769!6m8!1m7!1s6_kp_dRp5g7ibmmGxVj-HQ!2m2!1d51.50045866026581!2d-0.08128108398880525!3f281.9405511889381!4f0.3528826884573135!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+
+### 2. Old Jamaica Road: contraflow start month - June 2018 
+#### Location in relation to cycle routes
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.07579922676086427%2C51.49421641550111%2C-0.06380438804626466%2C51.50011421344789&amp;layer=cyclemap&amp;marker=51.49716540986782%2C-0.06980180740356445" style="border: 1px solid black" data-external="1"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=51.49717&amp;mlon=-0.06980#map=17/51.49717/-0.06980&amp;layers=C">View Larger Map</a></small>
+
+#### Entrance
+##### Pre-implementation (February 2018)
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678713286119!6m8!1m7!1slTGF7kSaXx1pNl9TiV4-Nw!2m2!1d51.49715894646315!2d-0.06966764885896819!3f98.53312346449911!4f-6.49365190740339!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+
+##### Post-implementation (April 2019)  
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678713402887!6m8!1m7!1seCzn9B4cmg79e5IFRsMoLw!2m2!1d51.49712205092408!2d-0.06968502206451935!3f90.86798871524681!4f-5.1749790265085664!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+
+#### Exit
+##### Pre-implementation (September 2017)  
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678713586001!6m8!1m7!1sBd9TCg0XvUw0mg87CqicGA!2m2!1d51.49728043330391!2d-0.06801369513757417!3f76.45339517180554!4f-11.441364072598333!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+
+##### Post-implementation (November 2020) 
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678713491466!6m8!1m7!1smGY6PLdOQVR-YRppIM5nvw!2m2!1d51.49727733225019!2d-0.06810701230072536!3f70.68572917880229!4f-24.097414162170622!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+
+
+### 3. Ivor Place: contraflow start month - February 2019 
+#### Location in relation to cycle routes
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.16468763351440432%2C51.522829966114465%2C-0.15760660171508792%2C51.52590059778319&amp;layer=cyclemap&amp;marker=51.52436530783196%2C-0.1611471176147461" style="border: 1px solid black" data-external="1"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=51.52437&amp;mlon=-0.16115#map=18/51.52437/-0.16115&amp;layers=C">View Larger Map</a></small>
+
+#### Entrance  
+##### Pre-implementation (January 2018)
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678717111515!6m8!1m7!1sqCSf_932R_csNHmxw6WJJA!2m2!1d51.52431032132527!2d-0.1615571065528156!3f75.25843075124092!4f7.574728019404105!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+##### Post-implementation (May 2019)
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678717161701!6m8!1m7!1sxImdutSTOQ017KcA_J5M4Q!2m2!1d51.52431962272699!2d-0.1615015595008785!3f75.25843075124092!4f7.574728019404105!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+
+#### Exit 
+##### Pre-implementation (January 2018)
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678717587829!6m8!1m7!1sEgkWdJGyz82JGrVFf9aCXw!2m2!1d51.524424598063!2d-0.1608800497692216!3f252.58099387689538!4f-8.850713521644693!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+##### Post-implementation (April 2019)
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678717429013!6m8!1m7!1ssSlrRrpeG99oIPKYeVLvCQ!2m2!1d51.52445687689453!2d-0.1608574208149846!3f252.692194505768!4f2.8759851579864346!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+
+
+
+## ? "Unsuccessful" contraflow implementations 
+### 1. Harrowby Street: contraflow start month - April 2019 
+#### Location in relation to cycle routes
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.17229437828063968%2C51.513910609654054%2C-0.15813231468200686%2C51.52005286873513&amp;layer=cyclemap&amp;marker=51.5169818427333%2C-0.16521334648132324" style="border: 1px solid black" data-external="1"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=51.51698&amp;mlon=-0.16521#map=17/51.51698/-0.16521&amp;layers=C">View Larger Map</a></small>
+
+#### Entrance  
+##### Pre-implementation (January 2018)
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678719235363!6m8!1m7!1sD7JmZeE9Vpmznm4xYwhjWQ!2m2!1d51.51721037463919!2d-0.1646454958970636!3f229.3231062285196!4f-0.72923201269532!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+##### Post-implementation (January 2021)
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678719548809!6m8!1m7!1sOEzj_wZzTDJzi1ITQjlFIg!2m2!1d51.51725222129514!2d-0.1645472247192169!3f234.4382756512287!4f-16.497051024811682!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+#### Exit  
+##### Pre-implementation (January 2018)
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678719359138!6m8!1m7!1sKBFrUOeunMSq7EgKJ3_F4A!2m2!1d51.51689047322114!2d-0.1655207490859835!3f57.295171905071385!4f-5.698364567979013!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+##### Post-implementation (January 2021)
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678719436227!6m8!1m7!1sEc7s35xqp_OH2J-BXbv1BA!2m2!1d51.51686140680321!2d-0.165542489679505!3f46.930777194030455!4f-8.994375119117848!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+### 2. Burwood Place: contraflow start month - April 2019 
+#### Location in relation to cycle routes
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.172959566116333%2C51.51368359725126%2C-0.15879750251770022%2C51.51982588694383&amp;layer=cyclemap&amp;marker=51.516754845636456%2C-0.1658785343170166" style="border: 1px solid black" data-external="1"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=51.51675&amp;mlon=-0.16588#map=17/51.51675/-0.16588&amp;layers=C">View Larger Map</a></small>  
+
+#### Entrance   
+##### Pre-implementation (January 2018)  
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678720369188!6m8!1m7!1soSnT6bYp0JxRBoTZJKyzGQ!2m2!1d51.51665703055524!2d-0.1660566804736594!3f55.305440651953326!4f-6.75334713965627!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"  data-external="1"></iframe>
+##### Post-implementation (April 2019)  
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678720196840!6m8!1m7!1s9xuneYsYg7lzYqs-NA1OhA!2m2!1d51.51666142046864!2d-0.1660719738879383!3f57.999285998657015!4f-6.75334713965627!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+
+#### Exit  
+##### Pre-implementation (October 2018)  
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678719856899!6m8!1m7!1sNNwodVtd83TeutnG0q7qWw!2m2!1d51.51691680435555!2d-0.1657326716231195!3f219.88721664600232!4f-3.059792141465536!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+  
+##### Post-implementation (June 2021)  
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678720006180!6m8!1m7!1sE1Ns7Io8PfOWWp1XOL8FOw!2m2!1d51.51688691392075!2d-0.1656560678152637!3f226.86732508365657!4f-9.07062052714815!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+
+
+
+References:  
+
+OpenStreetMap Wiki contributors, 'OpenCycleMap', OpenStreetMap Wiki,  5 September 2022, <https://wiki.openstreetmap.org/w/index.php?title=OpenCycleMap&oldid=2386636> [accessed 12 March 2023] 
+
+
+##### Key
+LCN = London Cycle Network (https://wiki.openstreetmap.org/wiki/London_Cycle_Network)  
+C27 = Cycleway 27 (https://tfl.gov.uk/modes/cycling/routes-and-maps/cycleways?intcmp=59201)  
