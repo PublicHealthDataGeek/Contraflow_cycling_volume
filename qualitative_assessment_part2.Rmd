@@ -97,6 +97,8 @@ This page provides data on the spatial location and before/after street images o
 ##### Post-implementation (June 2021)  
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678720006180!6m8!1m7!1sE1Ns7Io8PfOWWp1XOL8FOw!2m2!1d51.51688691392075!2d-0.1656560678152637!3f226.86732508365657!4f-9.07062052714815!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
 
+##### Building of Cycleway 27 - including Burwood Place and Harrowby Street
+![Progress of Cycleway 27 development](images/C27_status.png)
 
 
 References:  

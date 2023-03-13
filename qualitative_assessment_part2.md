@@ -170,9 +170,9 @@ Larger Map</a></small>
 
 #### Entrance
 
-##### Pre-implementation (September 2017)
+##### Pre-implementation (January 2018)
 
-<iframe src="https://www.google.com/maps/embed?pb=!4v1678720103634!6m8!1m7!1shN1lfO2UrvkaO9JwVjeKwQ!2m2!1d51.51640031729477!2d-0.1664852396156564!3f49.439326409567826!4f-20.147966580508765!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678720369188!6m8!1m7!1soSnT6bYp0JxRBoTZJKyzGQ!2m2!1d51.51665703055524!2d-0.1660566804736594!3f55.305440651953326!4f-6.75334713965627!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1">
 </iframe>
 
 ##### Post-implementation (April 2019)
@@ -191,6 +191,10 @@ Larger Map</a></small>
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678720006180!6m8!1m7!1sE1Ns7Io8PfOWWp1XOL8FOw!2m2!1d51.51688691392075!2d-0.1656560678152637!3f226.86732508365657!4f-9.07062052714815!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1">
 </iframe>
+
+##### Building of Cycleway 27 - including Burwood Place and Harrowby Street
+
+![Progress of Cycleway 27 development](images/C27_status.png)
 
 References:
 
