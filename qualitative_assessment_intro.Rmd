@@ -22,7 +22,7 @@ If either the map or images seem to have hit a bug then please refresh the page.
 ##### *Successful contraflow implementations*\
 These three roads had considerable increases in contraflow cycling trips and people after the introduction of contraflow cycling. They roads had low levels of illegal contraflow cycling prior to implementation.
 
-1.  [Clarence Gate](clarence_terrace.html)\
+1.  [Clarence Terrace](clarence_terrace.html)\
 
 2.  [Melcombe Street](melcombe_street.html)\
 
