@@ -7,39 +7,52 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-This webpage provides data on the spatial location and before/after street images of certain one-way road segments where contraflow cycling was implemented to help the qualitative assessment of these roads. Success is defined as an increase in cycling volume after contraflow cycling was introduced. Each road is identified as a blue pin on the maps. The maps also show national, regional and local cycle routes via the OpenCycleMap layer of OpenStreetMap. These are labelled as LCN (London Cycle Network) or C27, for example which means Cycleway 27. The viewer can zoom in and out and take a tour of the infrastructure at various points in time using the Google Street View Images. Whilst this seems to work most of the time, there are times when it seems to hit bugs and may produce images from incorrect time points (e.g. showing bidirectional motor vehicles when it is meant to be a one-way street) or the images will not load. If this happens, please refresh the page.
+This webpage provides data on the spatial location and before/after street images of certain one-way road segments where contraflow cycling was implemented to help the qualitative assessment of these roads. Success is defined as an increase in cycling volume after contraflow cycling was introduced. Below is a list of the streets examined. Please click on the links below to access maps and images of the streets.  
 
-Please click on the links below to access the individual streets.
+On each individual road page, there is a map and images of that road. The road is identified as a blue pin on a map. The maps also show national, regional and local cycle routes via the OpenCycleMap layer of OpenStreetMap. These are labelled as LCN (London Cycle Network) or C27, for example which means Cycleway 27.  
+
+Before and after Google Street View images are shown for the start and end of the contraflow section. The viewer can zoom in and out and travel along the infrastructure by clicking on the Google Street View images. Whilst this seems to work most of the time, there are periods when it seems to hit bugs and may produce images from incorrect time points (e.g. showing bidirectional motor vehicles when it is meant to be a one-way street) or the images will not load. 
+
+If either the map or images seem to have hit a bug then please refresh the page.
+
+
 
 #### **Existing one-way streets where contraflow cycling was introduced**
 
-*Successful contraflow implementations*
+##### *Successful contraflow implementations*\
+These three roads had considerable increases in contraflow cycling trips and people after the introduction of contraflow cycling. They roads had low levels of illegal contraflow cycling prior to implementation.
 
 1.  [Clarence Gate](clarence_terrace.html)\
 
-2.  Melcombe Street\
+2.  [Melcombe Street](melcombe_street.html)\
 
-3.  Roehampton High Street
+3.  [Roehampton High Street](Roehampton.html)
 
-*Unsuccessful contraflow implementations*
+##### *Unsuccessful contraflow implementations*\
+These three streets experienced a fall in mean contraflow counts after contraflow implementation with the last two having observed counts lower than expected. 
 
-1.  Hammersmith Grove\
+1.  [Hammersmith Grove](hammersmith_grove.html)\
 
-2.  Saltram Crescent (a)\
+2.  [Saltram Crescent (a)](saltram_cres_a.html)\
 
-3.  Meymott Street
+3.  [Meymott Street](meymott_street.html)
 
 #### **Two-way streets converted to one-way with contraflow cycling**
 
-*Successful contraflow implementations*
+##### *Successful contraflow implementations*  
 
-1.  Tanner Street\
+These three roads had an increase in contraflow cycling trips and people after implementation.
 
-2.  Old Jamaica Road\
+1.  [Tanner Street](tanner_street.html)\
 
-3.  Ivor Place
+2.  [Old Jamaica Road](old_jamaica_road.html)\
 
-*Unsuccessful contraflow implementations*
+3.  [Ivor Place](ivor_place.html)
 
-1.  Harrowby Street\
-2.  Burwood Place
+##### *Unsuccessful contraflow implementations*  
+
+These two roads had decreases in contraflow cycling after contraflow implementation.  
+
+1.  [Harrowby Street](harrowby_street.html)  
+
+2.  [Burwood Place](burwood_place.html)

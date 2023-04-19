@@ -1,0 +1,38 @@
+---
+title: "Successful implementation: Roehampton High Street"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Roehampton High Street was a one-way street where contraflow cycling was introduced in April 2019.
+
+Click [here](qualitative_assessment_intro.html) to return to main page.
+
+#### Location in relation to cycle routes
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.25294303894042974%2C51.444378637449404%2C-0.2246189117431641%2C51.45668106990573&amp;layer=cyclemap&amp;marker=51.450530268053605%2C-0.23878097534179688" style="border: 1px solid black" data-external="1"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=51.4505&amp;mlon=-0.2388#map=16/51.4505/-0.2388&amp;layers=C">View Larger Map</a></small>
+
+#### Entrance
+
+##### Pre-implementation (March 2018)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678638397299!6m8!1m7!1sMUVmptl6qM95z-weSxP9iA!2m2!1d51.45120392660519!2d-0.2366396158907698!3f248.54287437351732!4f-0.7079716106438667!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+
+##### Post-implementation (July 2019)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678638437494!6m8!1m7!1sdKyICYh35wGmrlM31KGVjA!2m2!1d51.45122729986043!2d-0.2365722477808071!3f252.4385928435704!4f-0.9333299099450585!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+
+#### Exit
+
+##### Pre-implementation (August 2017)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678638607013!6m8!1m7!1sAwXTU2sXyQ5Wlil2RakQYA!2m2!1d51.44995099080545!2d-0.2409184167451563!3f61.11613921700099!4f-0.5616529214770196!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+
+##### Post-implementation (May 2019)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678638538612!6m8!1m7!1s_h57xuyFDAAnrqDJXAE9qw!2m2!1d51.44996646160257!2d-0.2408763755789834!3f58.556463334950095!4f-11.39188400430632!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+
+**Click [here](qualitative_assessment_intro.html) to return to main page.**

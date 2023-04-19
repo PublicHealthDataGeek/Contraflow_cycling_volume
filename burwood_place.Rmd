@@ -1,0 +1,46 @@
+---
+title: "Unsuccessful implementation: Burwood Place"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Burwood Place was a two-way road that was converted to a one-way street with contraflow cycling in April 2019.
+
+Click [here](qualitative_assessment_intro.html) to return to main page.
+
+#### Location in relation to cycle routes
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.172959566116333%2C51.51368359725126%2C-0.15879750251770022%2C51.51982588694383&amp;layer=cyclemap&amp;marker=51.516754845636456%2C-0.1658785343170166" style="border: 1px solid black" data-external="1">
+</iframe>
+
+<br/><small><a href="https://www.openstreetmap.org/?mlat=51.51675&amp;mlon=-0.16588#map=17/51.51675/-0.16588&amp;layers=C">View
+Larger Map</a></small>
+
+#### Entrance
+
+##### Pre-implementation (January 2018)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678720369188!6m8!1m7!1soSnT6bYp0JxRBoTZJKyzGQ!2m2!1d51.51665703055524!2d-0.1660566804736594!3f55.305440651953326!4f-6.75334713965627!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1">
+</iframe>
+
+##### Post-implementation (April 2019)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678720196840!6m8!1m7!1s9xuneYsYg7lzYqs-NA1OhA!2m2!1d51.51666142046864!2d-0.1660719738879383!3f57.999285998657015!4f-6.75334713965627!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1">
+</iframe>
+
+#### Exit
+
+##### Pre-implementation (October 2018)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678719856899!6m8!1m7!1sNNwodVtd83TeutnG0q7qWw!2m2!1d51.51691680435555!2d-0.1657326716231195!3f219.88721664600232!4f-3.059792141465536!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1">
+</iframe>
+
+##### Post-implementation (June 2021)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678720006180!6m8!1m7!1sE1Ns7Io8PfOWWp1XOL8FOw!2m2!1d51.51688691392075!2d-0.1656560678152637!3f226.86732508365657!4f-9.07062052714815!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1">
+</iframe>
+
+**Click [here](qualitative_assessment_intro.html) to return to main page.**

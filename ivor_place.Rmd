@@ -1,0 +1,46 @@
+---
+title: "Successful implementation: Ivor Place"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Ivor Place was a two-way street that was converted to a one-way street with contraflow cycling in February 2019.
+
+Click [here](qualitative_assessment_intro.html) to return to main page.
+
+#### Location in relation to cycle routes
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.16468763351440432%2C51.522829966114465%2C-0.15760660171508792%2C51.52590059778319&amp;layer=cyclemap&amp;marker=51.52436530783196%2C-0.1611471176147461" style="border: 1px solid black" data-external="1">
+</iframe>
+
+<br/><small><a href="https://www.openstreetmap.org/?mlat=51.52437&amp;mlon=-0.16115#map=18/51.52437/-0.16115&amp;layers=C">View
+Larger Map</a></small>
+
+#### Entrance
+
+##### Pre-implementation (January 2018)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678717111515!6m8!1m7!1sqCSf_932R_csNHmxw6WJJA!2m2!1d51.52431032132527!2d-0.1615571065528156!3f75.25843075124092!4f7.574728019404105!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1">
+</iframe>
+
+##### Post-implementation (May 2019)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678717161701!6m8!1m7!1sxImdutSTOQ017KcA_J5M4Q!2m2!1d51.52431962272699!2d-0.1615015595008785!3f75.25843075124092!4f7.574728019404105!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1">
+</iframe>
+
+#### Exit
+
+##### Pre-implementation (January 2018)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678717587829!6m8!1m7!1sEgkWdJGyz82JGrVFf9aCXw!2m2!1d51.524424598063!2d-0.1608800497692216!3f252.58099387689538!4f-8.850713521644693!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1">
+</iframe>
+
+##### Post-implementation (April 2019)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678717429013!6m8!1m7!1ssSlrRrpeG99oIPKYeVLvCQ!2m2!1d51.52445687689453!2d-0.1608574208149846!3f252.692194505768!4f2.8759851579864346!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1">
+</iframe>
+
+**Click [here](qualitative_assessment_intro.html) to return to main page.**

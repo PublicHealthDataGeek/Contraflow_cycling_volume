@@ -1,0 +1,45 @@
+---
+title: "Successful implementation: Tanner Street"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Tanner Street was a two-way street that was converted to a one-way street with contraflow cycling in March 2018.
+
+Click [here](qualitative_assessment_intro.html) to return to main page.
+
+#### Location in relation to cycle routes
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.08388876914978029%2C51.49885523457889%2C-0.07680773735046388%2C51.501837321784826&amp;layer=cyclemap&amp;marker=51.50034630257278%2C-0.08034825325012207" style="border: 1px solid black" data-external="1">
+</iframe> <br/><small><a href="https://www.openstreetmap.org/?mlat=51.50035&amp;mlon=-0.08035#map=18/51.50035/-0.08035&amp;layers=C">View
+Larger Map</a></small>
+
+#### Entrance
+
+##### Pre-implementation (September 2017)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678710662532!6m8!1m7!1sKFqWkpGQ2ChjeUzVTUjzzA!2m2!1d51.5002026932336!2d-0.0785718062590715!3f277.663683963669!4f2.7690690831667553!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1">
+</iframe>
+
+##### Post-implementation (May 2019)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678711712052!6m8!1m7!1sZfZh7tzWr0_i3KoTX2FHpQ!2m2!1d51.5001806515253!2d-0.07855642399578204!3f277.663683963669!4f2.7690690831667553!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1">
+</iframe>
+
+#### Exit
+
+##### Pre-implementation (February 2018)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678711829928!6m8!1m7!1sjI5UNoeXmFFV1dNibrnv_A!2m2!1d51.50045425685693!2d-0.08127094660903154!3f281.9405511889381!4f0.3528826884573135!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1">
+</iframe>
+
+##### Post-implementation (May 2019)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678711859769!6m8!1m7!1s6_kp_dRp5g7ibmmGxVj-HQ!2m2!1d51.50045866026581!2d-0.08128108398880525!3f281.9405511889381!4f0.3528826884573135!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1">
+</iframe>
+
+
+**Click [here](qualitative_assessment_intro.html) to return to main page.**

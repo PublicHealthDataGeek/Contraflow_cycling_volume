@@ -1,0 +1,39 @@
+---
+title: "Unsuccessful implementation: Meymott Street"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Meymott Street was a one-way street where contraflow cycling was meant to be introduced in September 2019 but it appears not to have been implemented yet.
+
+Click [here](qualitative_assessment_intro.html) to return to main page.
+
+#### Location in relation to cycle routes
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.10688871145248414%2C51.50443521855256%2C-0.10334819555282594%2C51.505971180389686&amp;layer=cyclosm&amp;marker=51.50520320594292%2C-0.10511845350265503" style="border: 1px solid black" data-external="1"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=51.50520&amp;mlon=-0.10512#map=19/51.50520/-0.10512&amp;layers=Y">View Larger Map</a></small>
+
+#### Entrance
+
+##### Pre-implementation (January 2018)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678640860256!6m8!1m7!1s-aZL45yPoXFK1Qt8-Hfyyg!2m2!1d51.50519309189759!2d-0.1056485444064684!3f74.13342311539077!4f0.7585999159069985!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+
+##### Post-implementation (June 2022) NB no obvious implementation
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678640932044!6m8!1m7!1sRnFN9VtlyHy_-_EjtPM8SA!2m2!1d51.50520047490009!2d-0.1056429238699648!3f84.83405380735088!4f1.0195291220164506!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+
+#### Exit
+
+##### Pre-implementation (September 2017)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678641135619!6m8!1m7!1sX3yOvcyMKqSvveuO82MS-g!2m2!1d51.50518284738245!2d-0.1044584846582509!3f268.81641600186987!4f-0.3809317603835325!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+
+##### Post-implementation (January 2021) NB no obvious implementation
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678641182536!6m8!1m7!1sVfZAzpSLp5WnKlXhR9P4cg!2m2!1d51.50518308748926!2d-0.1044590234938108!3f268.81641600186987!4f-0.3809317603835325!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+
+
+**Click [here](qualitative_assessment_intro.html) to return to main page.**

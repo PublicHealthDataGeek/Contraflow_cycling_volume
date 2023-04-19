@@ -1,0 +1,39 @@
+---
+title: "Unsuccessful implementation: Hammersmith Grove"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Hammersmith Grove was a one-way street where contraflow cycling was introduced in June 2018 under an experimental traffic order. The start and end positions of contraflow cycle lane are unspecified https://www.thegazette.co.uk/notice/3035229.
+
+Click [here](qualitative_assessment_intro.html) to return to main page.
+
+#### Location in relation to cycle routes
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.23312687873840335%2C51.49080295844689%2C-0.21896481513977054%2C51.49694833298257&amp;layer=cyclemap&amp;marker=51.49387574927271%2C-0.22604584693908691" style="border: 1px solid black" data-external="1"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=51.49388&amp;mlon=-0.22605#map=17/51.49388/-0.22605&amp;layers=C">View Larger Map</a></small>
+
+#### Entrance
+
+##### Pre-implementation (April 2017)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678639251064!6m8!1m7!1sE5ZmsHHXF86augE7C0_4OA!2m2!1d51.49353542308056!2d-0.2258988726748117!3f1.7809268545818213!4f-11.860701838415551!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+
+##### Post-implementation (October 2018)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681896835795!6m8!1m7!1sh0BuudYSS_zFmXTHNaNZHw!2m2!1d51.49355853893948!2d-0.225970037254485!3f353.42526300048155!4f-11.098395901884516!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"data-external="1"></iframe>
+
+#### Exit
+
+##### Pre-implementation (November 2017)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678639566558!6m8!1m7!1sWcF2e5wlyTvc2VZfqvgADw!2m2!1d51.49419397312639!2d-0.2260982717740225!3f339.7836149837313!4f2.646933640333259!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+
+##### Post-implementation (September 2019)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678639642674!6m8!1m7!1sCAoSLEFGMVFpcE5xNGNJRGs1TzU4TkNWQ1ZSSllEanJESDY2NlJfR3RWbXhTWkhZ!2m2!1d51.49417392327346!2d-0.2261422243905747!3f339.7836149837313!4f2.646933640333259!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+
+
+**Click [here](qualitative_assessment_intro.html) to return to main page.**

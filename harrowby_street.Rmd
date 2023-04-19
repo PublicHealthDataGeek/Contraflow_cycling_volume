@@ -1,0 +1,46 @@
+---
+title: "Unsuccessful implementation: Harrowby Street"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Harrowby Street was a two-way road that was converted to a one-way street with contraflow cycling in April 2019.
+
+Click [here](qualitative_assessment_intro.html) to return to main page.
+
+#### Location in relation to cycle routes
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.17229437828063968%2C51.513910609654054%2C-0.15813231468200686%2C51.52005286873513&amp;layer=cyclemap&amp;marker=51.5169818427333%2C-0.16521334648132324" style="border: 1px solid black" data-external="1">
+</iframe>
+
+<br/><small><a href="https://www.openstreetmap.org/?mlat=51.51698&amp;mlon=-0.16521#map=17/51.51698/-0.16521&amp;layers=C">View
+Larger Map</a></small>
+
+#### Entrance
+
+##### Pre-implementation (January 2018)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678719235363!6m8!1m7!1sD7JmZeE9Vpmznm4xYwhjWQ!2m2!1d51.51721037463919!2d-0.1646454958970636!3f229.3231062285196!4f-0.72923201269532!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1">
+</iframe>
+
+##### Post-implementation (January 2021)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678719548809!6m8!1m7!1sOEzj_wZzTDJzi1ITQjlFIg!2m2!1d51.51725222129514!2d-0.1645472247192169!3f234.4382756512287!4f-16.497051024811682!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1">
+</iframe>
+
+#### Exit
+
+##### Pre-implementation (January 2018)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678719359138!6m8!1m7!1sKBFrUOeunMSq7EgKJ3_F4A!2m2!1d51.51689047322114!2d-0.1655207490859835!3f57.295171905071385!4f-5.698364567979013!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1">
+</iframe>
+
+##### Post-implementation (January 2021)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678719436227!6m8!1m7!1sEc7s35xqp_OH2J-BXbv1BA!2m2!1d51.51686140680321!2d-0.165542489679505!3f46.930777194030455!4f-8.994375119117848!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1">
+</iframe>
+
+**Click [here](qualitative_assessment_intro.html) to return to main page.**
