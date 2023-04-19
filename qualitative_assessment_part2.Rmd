@@ -65,7 +65,7 @@ This page provides data on the spatial location and before/after street images o
 
 
 
-## ? "Unsuccessful" contraflow implementations 
+## "Unsuccessful" contraflow implementations 
 ### 1. Harrowby Street: contraflow start month - April 2019 
 #### Location in relation to cycle routes
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.17229437828063968%2C51.513910609654054%2C-0.15813231468200686%2C51.52005286873513&amp;layer=cyclemap&amp;marker=51.5169818427333%2C-0.16521334648132324" style="border: 1px solid black" data-external="1"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=51.51698&amp;mlon=-0.16521#map=17/51.51698/-0.16521&amp;layers=C">View Larger Map</a></small>

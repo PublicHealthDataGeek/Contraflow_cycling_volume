@@ -1,0 +1,43 @@
+---
+title: "Untitled"
+format: html
+editor: visual
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
+
+This page provides data on the spatial location and before/after street images of certain one-way road segments where contraflow cycling was implemented to help the qualitative assessment of these roads. Each road is identified as a blue pin on the maps. The maps also show national, regional and local cycle routes via the OpenCycleMap layer of OpenStreetMap. These are labelled as LCN (London Cycle Network) or C27, for example which means Cycleway 27 (REFS). The viewer can zoom in and out and take a tour of the infrastructure at various points in time using the Google Street View Images. Whilst this seems to work most of the time, there are times when it seems to hit bugs and may produce images from incorrect time points (e.g. showing bidirectional motor vehicles when it is meant to be a one-way street). If this happens, please refresh the page.
+
+## Successful contraflow implementations
+
+### 1. Clarence Gate: contraflow start month - December 2018
+
+#### Location in relation to cycle routes
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.17284154891967773%2C51.5183838585532%2C-0.14451742172241214%2C51.530666342027345&amp;layer=cyclemap&amp;marker=51.52452551441979%2C-0.15867948532104492" style="border: 1px solid black" data-external="1"></iframe>
+
+#### Entrance
+
+##### Pre-implementation (January 2018)
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678631113603!6m8!1m7!1s_uwNA56F4ynxGdMv1ZqqGA!2m2!1d51.52422945825865!2d-0.1584930355828586!3f343.41656826237363!4f-4.990661513743092!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" data-external="1"></iframe>
+
