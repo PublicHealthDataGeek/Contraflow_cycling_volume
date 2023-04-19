@@ -11,17 +11,17 @@ This webpage provides data on the spatial location and before/after street image
 
 Please click on the links below to access the individual streets.
 
-#### **Existing one-way streets where contraflow cycling was introduced** 
+#### **Existing one-way streets where contraflow cycling was introduced**
 
-*Successful contraflow implementations*  
+*Successful contraflow implementations*
 
-1.  Clarence Gate\
+1.  [Clarence Gate](clarence_terrace.html)\
 
 2.  Melcombe Street\
 
 3.  Roehampton High Street
 
-*Unsuccessful contraflow implementations*  
+*Unsuccessful contraflow implementations*
 
 1.  Hammersmith Grove\
 
@@ -29,9 +29,9 @@ Please click on the links below to access the individual streets.
 
 3.  Meymott Street
 
-#### **Two-way streets converted to one-way with contraflow cycling** 
+#### **Two-way streets converted to one-way with contraflow cycling**
 
-*Successful contraflow implementations*  
+*Successful contraflow implementations*
 
 1.  Tanner Street\
 
@@ -39,7 +39,7 @@ Please click on the links below to access the individual streets.
 
 3.  Ivor Place
 
-*Unsuccessful contraflow implementations*  
+*Unsuccessful contraflow implementations*
 
 1.  Harrowby Street\
 2.  Burwood Place
