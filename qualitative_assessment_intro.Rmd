@@ -1,0 +1,45 @@
+---
+title: "Qualitative assessment of roads where contraflow cycling was introduced"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This webpage provides data on the spatial location and before/after street images of certain one-way road segments where contraflow cycling was implemented to help the qualitative assessment of these roads. Success is defined as an increase in cycling volume after contraflow cycling was introduced. Each road is identified as a blue pin on the maps. The maps also show national, regional and local cycle routes via the OpenCycleMap layer of OpenStreetMap. These are labelled as LCN (London Cycle Network) or C27, for example which means Cycleway 27. The viewer can zoom in and out and take a tour of the infrastructure at various points in time using the Google Street View Images. Whilst this seems to work most of the time, there are times when it seems to hit bugs and may produce images from incorrect time points (e.g. showing bidirectional motor vehicles when it is meant to be a one-way street) or the images will not load. If this happens, please refresh the page.
+
+Please click on the links below to access the individual streets.
+
+#### **Existing one-way streets where contraflow cycling was introduced** 
+
+*Successful contraflow implementations*  
+
+1.  Clarence Gate\
+
+2.  Melcombe Street\
+
+3.  Roehampton High Street
+
+*Unsuccessful contraflow implementations*  
+
+1.  Hammersmith Grove\
+
+2.  Saltram Crescent (a)\
+
+3.  Meymott Street
+
+#### **Two-way streets converted to one-way with contraflow cycling** 
+
+*Successful contraflow implementations*  
+
+1.  Tanner Street\
+
+2.  Old Jamaica Road\
+
+3.  Ivor Place
+
+*Unsuccessful contraflow implementations*  
+
+1.  Harrowby Street\
+2.  Burwood Place
